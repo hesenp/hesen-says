@@ -1,2 +1,3 @@
-# hesen-says
-Things that might interest you as well. 
+# What does Hesen say?
+
+Stuff that you might find interesting as well. 
